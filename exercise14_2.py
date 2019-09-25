@@ -48,4 +48,6 @@ while True:
     location = js['results'][0]['place_id']
     print('Place id', location)
 
+
+
     
